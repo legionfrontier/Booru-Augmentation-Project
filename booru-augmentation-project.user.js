@@ -32,7 +32,7 @@ var pages = {
 		'view': postPage
 	}
 };
-var hosting = 'http://rawgit.com/Seedmanc/Booru-Augmentation-Project/master/';
+var hosting = 'http://rawgit.com/legionfrontier/Booru-Augmentation-Project/master/';
 
 window.BAPtags = {};
 window.BAPopts = JSON.parse(localStorage.getItem('BAPopts') || '{"ansiOnly":true, "solo":true, "tagme":true}');
